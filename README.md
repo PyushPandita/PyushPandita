@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & React Native**
 
 - 📫 How to reach me **pandita.pyush@gmail.com**
 
